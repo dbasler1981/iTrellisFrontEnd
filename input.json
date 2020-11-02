@@ -1,0 +1,36 @@
+{
+    "students": [
+        {
+            "id": 0,
+            "name": "Darren",
+            "expenses": [
+                {
+                    "meals": "",
+                    "hotels": "",
+                    "taxi": "",
+                    "planeTickets": ""
+                }
+            ],
+            "meals": "1",
+            "hotels": "2",
+            "taxi": "3",
+            "planeTickets": "4"
+        },
+        {
+            "id": 1,
+            "name": "Brad",
+            "expenses": [
+                {
+                    "meals": "",
+                    "hotels": "",
+                    "taxi": "",
+                    "planeTickets": ""
+                }
+            ],
+            "meals": "3",
+            "hotels": "4",
+            "taxi": "5",
+            "planeTickets": "6"
+        }
+    ]
+}
